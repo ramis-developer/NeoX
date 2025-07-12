@@ -1,0 +1,43 @@
+.Footer{
+    background-color: rgb(27, 23, 55);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.h1kel{
+    color: rgb(46, 46, 140);
+    font-size: 30px;
+}
+.Footer p{
+    color: white;
+    font-size: 20px;
+}
+.Footer p span {
+    color: gray;
+    font-size: 20px;
+}
+.we{
+    color: white;
+    font-size: 30px;
+}
+.icons2{
+    max-width: 300px;
+    display: flex;  
+    justify-content: space-between;
+}
+.icon2{
+    font-size: 50px;
+    color: rgb(159, 157, 157);
+}
+.twoFooter{
+    background-color: rgb(53, 53, 53);
+    padding: 100px;
+    border-radius: 10px
+}
+.twoFooter h1{
+    color: orange;
+}
+.kelkelEnd{
+    padding-left: 750px;
+    padding-top: 20px;
+}
