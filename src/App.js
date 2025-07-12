@@ -4,6 +4,7 @@ import HeroSection from './components/HeroSection'
 import Categories from './components/Categories'
 import PopularProducts from './components/PopularProducts'
 import Footer from './components/Footer'
+import Ramis from './components/Ramis'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <HeroSection/>
       <Categories/>
       <PopularProducts/>
+      <Ramis/>
       <Footer/>
     </div>
   )
